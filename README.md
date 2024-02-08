@@ -1,4 +1,5 @@
 # Chattr
+![ezgif-6-7025903acf](https://github.com/jjcode22/Chattr/assets/108716229/f805285d-9644-4361-b0d6-5e6a75fedb9e)
 
 
 ## What I learnt
